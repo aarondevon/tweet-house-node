@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+@import '~bootstrap/scss/bootstrap';
+@import './base/base';
+@import './components/header';
+@import './components/nav';
+@import './components/home';
+@import 'components/randomTweetPage';
+@import 'components/userCard';
+@import './components/tweetSearchPage';
+@import './components/tweet';
